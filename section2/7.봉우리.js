@@ -1,5 +1,5 @@
 function solution(arr) {
-    // 복습필요 
+    // 복습필요
     let answer = 0;
     let n = arr.length;
     let dx = [-1, 1, 0, 0];
